@@ -17,6 +17,7 @@ You can copy raw source and paste it directly into your executor, but that isn't
 - Roblox Crashing
 - Script not loading
 - Etc
+
 Please use the loadstrings provided in the file "Loadstrings and games". The loadstring shortens the code to a one line script, fetching the github raw code and enforcing it into the Roblox ingame files. It works on much more executors and is much more nice to see/read.
 
 ## Executors
