@@ -1,4 +1,4 @@
-# Read-Me!
+# Info/Repository-Reason
 
 Welcome to my Script holding github repository.
 
