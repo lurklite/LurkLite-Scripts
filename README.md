@@ -26,6 +26,8 @@ Finding the best Roblox executor may be hard. and/or you may not know who to tru
 Here are some of the most trusted and best working executors out there:
 
 - Synapse X (This is a paid executor costing $20. Best executor I know and is also the one I use. Very easy and smoothly put together, also can run basically every script!)
--KRNL (This is number 2, because however this executor is good and its free, it as a KEY to put in every time, which can get annoying pretty quickly
+
+-KRNL (This is number 2, because however this executor is good and its free, it as a KEY to put in every time, which can get annoying pretty quickly)
+
 -JJSploit (This executor is number 3, People claim this executor has a virus/coin miner, and it is free, No key either, however it can ***NOT*** execute big scripts)
 
